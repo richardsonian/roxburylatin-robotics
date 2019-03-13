@@ -7,4 +7,5 @@ newlib-nano/*
 sys/*
 #track the following files
 !/.gitignore
+!/README.md
 !/2018-2019.vex
