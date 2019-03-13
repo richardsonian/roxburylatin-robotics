@@ -1,0 +1,10 @@
+#.gitignore
+
+#By default do not track any files
+*
+c++/*
+newlib-nano/*
+sys/*
+#track the following files
+!/.gitignore
+!/2018-2019.vex
